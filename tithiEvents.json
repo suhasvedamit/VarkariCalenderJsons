@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "events": [
+    {
+      "id": "ekadashi-2026-04-01",
+      "tithi": "Ekadashi",
+      "paksha": "Shukla",
+      "date": "2026-04-01",
+      "time": "09:00",
+      "title": "Ekadashi (Example)",
+      "notes": ""
+    }
+  ]
+}
