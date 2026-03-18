@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "files": {
+    "regions": { "version": 2, "url": "https://raw.githubusercontent.com/suhasvedamit/VarkariCalenderJsons/refs/heads/main/regions.json" },
+    "localEvents": { "version": 7, "url": "https://raw.githubusercontent.com/suhasvedamit/VarkariCalenderJsons/refs/heads/main/localEvents.json" },
+    "tithiEvents": { "version": 3, "url": "https://raw.githubusercontent.com/suhasvedamit/VarkariCalenderJsons/refs/heads/main/tithiEvents.json" }
+  }
+}
