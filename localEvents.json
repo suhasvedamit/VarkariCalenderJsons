@@ -1,0 +1,17 @@
+{
+  "version": 7,
+  "events": [
+    {
+      "id": "pune-jatra-2026-04-10-001",
+      "regionId": "pune",
+      "type": "jatra",
+      "date": "2026-04-10",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "title": "Annual Jatra (Example)",
+      "location": "Main Chowk",
+      "notes": ""
+    }
+  ]
+}
+
