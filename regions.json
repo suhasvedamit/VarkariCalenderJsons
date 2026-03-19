@@ -2,6 +2,7 @@
   "version": 2,
   "regions": [
     { "id": "pune", "name": "Pune" },
-    { "id": "ale_junnar", "name": "Ale, Junnar" }
+    { "id": "ale_junnar", "name": "Ale, Junnar" },
+    { "id": "rajuri_junnar", "name": "Rajuri, Junnar" }
   ]
 }
