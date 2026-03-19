@@ -11,6 +11,17 @@
       "title": "Annual Jatra (Example)",
       "location": "Main Chowk",
       "notes": ""
+    },
+    {
+      "id": "ale-jatra-2026-03-20-001",
+      "regionId": "ale_junnar",
+      "type": "jatra",
+      "date": "2026-03-20",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "title": "Annual Jatra",
+      "location": "Shree Reda Samadhi",
+      "notes": ""
     }
   ]
 }
