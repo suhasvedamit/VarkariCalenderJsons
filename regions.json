@@ -1,6 +1,7 @@
 {
   "version": 2,
   "regions": [
-    { "id": "pune", "name": "Pune" }
+    { "id": "pune", "name": "Pune" },
+    { "id": "ale_junnar", "name": "Ale, Junnar" }
   ]
 }
